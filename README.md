@@ -40,8 +40,8 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 ## PROGRAM:
 ```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: Aashima Nazreen Sayeed S
-RegisterNumber: 212221240002
+Developed by: SARVESH KARAN V K 
+RegisterNumber: 212221230089
 ```
 
 ```
